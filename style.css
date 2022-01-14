@@ -97,6 +97,7 @@ body {
 
 .Error .error-icon {
     display: block;
+    outline: none;
   }
    
 .Error .input {
@@ -139,6 +140,8 @@ body {
   transition: all .2s;
   cursor: pointer;
   margin-right: 1.5rem;
+  outline: none;
+
   }
 
   .icon-arrow{
